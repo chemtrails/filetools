@@ -42,7 +42,7 @@ ft.content
 # a,b,c
   d,e,f
 
-for line in ft.read_lines()
+for line in ft.read_lines():
     print(line[1])
 # b
   e
@@ -66,7 +66,7 @@ ft.content
 # text 1
   text 2
 
-for line in ft.read_lines()
+for line in ft.read_lines():
     print(line)
 
 # text 1
