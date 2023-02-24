@@ -1,4 +1,4 @@
-Handles boilerplate for file opening, json lines, csv rows etc. in one class
+Handles boilerplate for file opening, json lines, csv rows etc. with the same methods for different file formats
 
 init parameters
 ```
