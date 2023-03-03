@@ -1,1 +1,1 @@
-from util import Fopen
+from fopen.util import Fopen
